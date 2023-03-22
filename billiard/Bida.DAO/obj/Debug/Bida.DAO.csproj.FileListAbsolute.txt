@@ -1,0 +1,6 @@
+E:\Face\billiard-management-master\bin\Bida.DAO.dll
+E:\Face\billiard-management-master\bin\Bida.DAO.pdb
+E:\Face\billiard-management-master\Bida.DAO\obj\Debug\Bida.DAO.csprojResolveAssemblyReference.cache
+E:\Face\billiard-management-master\Bida.DAO\obj\Debug\Bida.DAO.dll
+E:\Face\billiard-management-master\Bida.DAO\obj\Debug\Bida.DAO.pdb
+E:\Face\billiard-management-master\bin\Bida.DAO.dll.config

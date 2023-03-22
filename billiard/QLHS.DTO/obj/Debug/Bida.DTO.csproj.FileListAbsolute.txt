@@ -1,0 +1,4 @@
+E:\Face\billiard-management-master\bin\Bida.DTO.dll
+E:\Face\billiard-management-master\bin\Bida.DTO.pdb
+E:\Face\billiard-management-master\QLHS.DTO\obj\Debug\Bida.DTO.dll
+E:\Face\billiard-management-master\QLHS.DTO\obj\Debug\Bida.DTO.pdb

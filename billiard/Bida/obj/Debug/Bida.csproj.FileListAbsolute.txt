@@ -1,0 +1,14 @@
+E:\Face\billiard-management-master\bin\Bida.exe
+E:\Face\billiard-management-master\bin\Bida.pdb
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.csprojResolveAssemblyReference.cache
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.frmAdd.resources
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.frmBan.resources
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.frmBienLai.resources
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.frmChuyen.resources
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.frmCreateBan.resources
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.frmMain.resources
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.frmLogin.resources
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.Properties.Resources.resources
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.csproj.GenerateResource.Cache
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.exe
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.pdb

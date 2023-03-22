@@ -1,0 +1,5 @@
+E:\Face\billiard-management-master\bin\Bida.BUS.dll
+E:\Face\billiard-management-master\bin\Bida.BUS.pdb
+E:\Face\billiard-management-master\Bida.BUS\obj\Debug\Bida.BUS.csprojResolveAssemblyReference.cache
+E:\Face\billiard-management-master\Bida.BUS\obj\Debug\Bida.BUS.dll
+E:\Face\billiard-management-master\Bida.BUS\obj\Debug\Bida.BUS.pdb
